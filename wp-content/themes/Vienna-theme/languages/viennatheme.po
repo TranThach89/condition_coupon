@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: translations.php:1
+msgid "404 Error"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "A premium restaurant wordPress theme"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Additional Information"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Baby Shower"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Backyard party"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Banquet"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Birthday Party"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Blog Page"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Book an Event"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Book with us!"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Book your event now "
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Book your next private party or event with Vienna"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Boxed Mode"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Browse our gallery and see what makes Vienna great!"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Check the URL entered and ensure it is correct."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Comment..."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Continue Reading"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Continue Reading: "
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Corporate"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Corporate Party"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Custom Sidebar"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Customize VIENNA"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Date of Event"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Default Template"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Email *"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Email address"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Engagement"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Event Location"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Event Type"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Expand"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Fan Page"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "First name"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Footer Column 1"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Footer Column 2"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Footer Column 3"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Footer Column 4"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Fullscreen"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Home Page"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Language"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Last name"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Learn more about us"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Like this"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Load More"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Loading..."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "More Info"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Name *"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "News filed in:"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "News tagged with:"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Next page"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No Sidebar"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No content was found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No events were found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No gallery posts were found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No menus were found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No posts were found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "No staff profiles were found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Number of Guests"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Other"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Page not found"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Phone Number"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Post a comment"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Previous page"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Return home"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "School Function"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Search Results for:"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Send Request"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Share on Facebook"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Share on Google Plus"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Share on Twitter"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Share this with friends"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Single Blog Post"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Social Gathering"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Stag"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Submit a Comment"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "The page you we're looking could not be found."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Time of Event (ex. 7:00pm - 9:00pm)"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Try a new search:"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Tweet this"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Type keywords..."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "View Post"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "View Profile"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "View all"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "View our gallery "
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "View our menus "
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Viewing"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Wedding"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Welcome to Vienna"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Witness the beauty"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Woocommerce"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "You may use these HTML tags and attributes:"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "Your search entry for"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "of"
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "to post a comment."
+msgstr ""
+
+#. Text in echo
+#: translations.php:1
+msgid "yielded no results."
+msgstr ""

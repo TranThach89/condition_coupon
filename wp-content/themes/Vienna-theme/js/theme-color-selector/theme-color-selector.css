@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+#pm_theme_color_selector {
+	background-color: white;
+    /*padding: 0 20px 20px 20px;*/
+    position: fixed;
+    top: 3%;
+    z-index:999999;
+	width:200px;
+	left:-200px;
+	border-right:1px solid #EFEFEF;
+	/*display:none;*/
+}
+
+#pm_theme_color_selector p:first-child {
+	margin-top:0px;	
+}
+
+#pm_theme_color_selector p {
+	margin:6px 0 6px 0;
+	padding:0px;
+	color:#333333;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.pm_theme_color_selector_btn {
+    background-color: #333333;
+    color: #ffffff;
+    display: block;
+    height: 43px;
+    padding: 8px 0 0;
+    position: absolute;
+    right: -40px;
+    text-align: center;
+    text-decoration: none;
+    top: 0;
+    width: 40px;
+}
+
+.pm_theme_color_selector_title {
+	display:block;
+	padding:9px 9px 9px 22px !important;
+	margin:0 !important;
+	background-color:#333;
+	font-size:14px !important;
+	color:white !important;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:25px !important;
+}
+
+.pm_theme_color_selector_btn:hover {
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.pm_theme_color_selector_btn i {
+    color:white;
+    display: block !important;
+    font-size: 28px;
+	height:inherit !important;
+	margin-top:-1px;
+	line-height:24px !important;
+	
+	transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-webkit-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+}
+
+.pm_theme_color_selector_btn i:hover {
+	color:#666666;	
+}
+
+.pm_theme_img_selector {
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+
+.pm_theme_img_selector li:before {
+	content:"";
+	margin:0;
+	padding:0;	
+}
+
+.pm_theme_img_selector li {
+	float:left;
+	margin-right:5px;
+	margin-bottom:5px;
+	width:30px;
+	height:30px;
+}
+
+.pm_theme_color_selector_container {
+	padding:10px 20px 20px 20px;
+	border-bottom:1px solid #EFEFEF;
+	overflow:auto;
+}
+
+#pm_theme_color_selector_mode {
+    border: 1px solid #efefef;
+    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.pm_theme_color_selector_container label {
+	font-size:11px;
+	font-weight:normal;	
+}
+.pm_theme_color_selector_container input[type="checkbox"] {
+	margin:4px;	
+}

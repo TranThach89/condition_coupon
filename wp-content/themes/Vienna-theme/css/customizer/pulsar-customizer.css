@@ -1,0 +1,24 @@
+.customize-control-radio .ui-state-default, .customize-control-radio .ui-widget-content .ui-state-default, .customize-control-radio .ui-widget-header .ui-state-default {
+	border-radius: 0 !important;
+	-webkit-border-radius: 0 !important;
+	-o-border-radius: 0 !important;
+}
+
+.customize-control-radio .ui-button-text-only .ui-button-text {
+    padding: 0.1em;
+}
+
+
+.customize-control-radio .ui-widget {
+	font-size: 0;	
+	margin-right: 4px !important;
+    margin-top: 4px;
+}
+
+.customize-control-slider input[type="text"] {
+	margin-bottom:10px;
+}
+
+.customize-control-slider .ss-slider {
+	margin-bottom:7px;	
+}

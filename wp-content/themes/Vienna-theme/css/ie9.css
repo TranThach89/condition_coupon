@@ -1,0 +1,13 @@
+.img-responsive {
+	width:auto !important;	
+}
+
+.pm-event-item-btns li {
+	float:none;
+	margin:0 0 10px;	
+}
+
+.pm-event-item-btns li a {
+	margin:0px;	
+	padding:0px;
+}

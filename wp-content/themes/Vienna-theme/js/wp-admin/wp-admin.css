@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+/* Custom Meta Options */
+.pm-admin-upload-field, .pm-staff-admin-upload-field {
+	width:75%;
+	padding:5px;
+}
+
+.pm-admin-staff-header-upload-field {
+	width:75%;
+	padding:5px;	
+}
+
+.pm-featured-image-upload-field {
+	width:75%;
+	padding:5px;
+}
+
+.pm-admin-text-field {
+	width:100%;
+	padding:8px;
+	height:35px;
+}
+
+.pm-admin-textarea {
+	width:100%;
+	padding:8px;
+	height:100px;
+}
+
+
+.pm-admin-date-field {
+	width:40%;
+	padding:8px;
+	height:35px;
+	border:1px solid #DDDDDD;	
+}
+
+.pm-admin-upload-field-preview, .pm-featured-image-preview {
+	max-width:50%;
+	height:auto;
+	padding:10px 0;	
+}
+
+.pm-admin-upload-staff-preview {
+	max-width:40%;
+	height:auto;
+	padding:10px 0;	
+}
+
+.pm-staff-header-image-preview {
+	max-width:40%;
+	height:auto;
+	padding:10px 0;		
+}
+
+.pm-admin-upload-field-preview img, .pm-admin-upload-staff-preview img, .pm-featured-image-preview img, .pm-staff-header-image-preview img {
+	width:100%;
+}
+

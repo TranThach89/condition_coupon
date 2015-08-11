@@ -1,0 +1,237 @@
+.pm-base-btn {
+	background-color:#333;
+	margin:5px 2px;
+	
+	color:white;
+	text-align:center;
+	
+	transition:all 0.3s;
+	-webkit-transition:all 0.3s;
+	-moz-transition:all 0.3s;
+	-o-transition:all 0.3s;
+}
+
+.pm-base-btn a {
+	color:inherit !important;
+	text-decoration:none !important;	
+	display:block;
+	width:inherit;
+	height:inherit;
+	padding:5px 15px;
+}
+
+.pm-base-btn:hover {
+	cursor:pointer;
+	background-color:#333;	
+}
+
+.pm-header-btn {
+	width:100px;	
+	margin:5px 0 5px 0px;
+	text-transform:uppercase;
+	font-family:'Open sans';
+	text-shadow: rgb(100, 100, 100) 1px 1px 0px;
+}
+
+.pm-header-btn.user {
+	width:auto;	
+	margin:5px 0px !important;
+	text-transform:uppercase;
+	font-family:'Open sans';
+	text-shadow: rgb(100, 100, 100) 1px 1px 0px;
+}
+
+.pm-header-btn.search {
+	width:auto;
+	height:36px;
+	text-align:center;
+	margin:5px 0px !important;
+	background-color:#6cb9f3;
+	border:1px solid #0a8bec;
+	padding-top:4px;
+	text-shadow: rgb(100, 100, 100) 1px 1px 0px;
+}
+
+
+.pm-header-btn:hover, .pm-header-btn.user:hover {
+	cursor:pointer;
+	background-color:#333;
+	border:1px solid #666;	
+}
+
+.pm-register-btn {
+	background-color:#dbc164;
+	border:1px solid #987e23;	
+}
+
+.pm-login-btn {
+	background-color:#6cb9f3;
+	border:1px solid #0a8bec;	
+}
+
+
+.pm-main-menu-btn i {
+	color:#DBC164;
+	font-size:24px;
+	font-family:'FontAwesome';
+}
+
+/* Comment form btn */
+.form-submit input[type=submit] {
+	width:auto;
+	height:auto;	
+	display:inline;
+	background-color:white;
+	min-width:100px;
+	display:inline-block;
+	padding:7px 17px;	
+	text-decoration:none;
+	text-transform:uppercase;
+	font-family:'Open sans';
+	font-size:14px;
+	font-weight:bold;
+	color:white !important;
+	margin:10px 0px;
+	text-align:center;
+	border:0px solid white;
+	
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	-o-border-radius:4px;
+	
+	transition:all 0.4s;
+	-moz-transition:all 0.4s;
+	-webkit-transition:all 0.4s;
+	-o-transition:all 0.4s;	
+}
+
+.form-submit input[type=submit]:hover {
+	color:white;
+	background-color:#333;
+}
+
+/* Rounded button */
+.pm-rounded-btn, .form-row input[type=submit] {
+	width:auto;
+	height:auto;	
+	display:inline;
+	background-color:white;
+	min-width:100px;
+	display:inline-block;
+	padding:12px 20px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-family:'Open sans';
+	font-size:14px;
+	font-weight:bold;
+	color:white !important;
+	margin:10px 0px;
+	text-align:center;
+	border:0px solid white !important;
+	
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	-o-border-radius:4px;
+	
+	transition:all 0.4s;
+	-moz-transition:all 0.4s;
+	-webkit-transition:all 0.4s;
+	-o-transition:all 0.4s;
+}
+
+.pm-rounded-btn.single_add_to_cart_button {
+	padding:10px 20px;
+	float:right;
+	margin-top:0px;
+}
+
+.pm-rounded-btn.submit {
+	border:0px solid white;	
+	margin-top:10px;
+}
+
+.pm-rounded-btn.tag {
+	margin:1px;	
+}
+
+.pm-rounded-btn.expand {
+	padding:7px 0px !important;
+	min-width:40px !important;
+}
+
+.pm-rounded-btn.small {
+	padding:7px 14px;	
+}
+
+.pm-rounded-btn.small.pm-comment-reply {
+	padding:0;	
+}
+
+.pm-rounded-btn.small.pm-comment-reply a {
+    color: white;
+    display: block;
+    font-weight: 700 !important;
+    padding: 7px 17px;
+}
+
+.pm-rounded-btn:hover, .pm-rounded-btn.transparent:hover {
+	color:white;
+	background-color:#333;
+}
+
+.pm-rounded-btn:hover, .pm-rounded-btn.pm-add-to-cart {
+	background-color:#333 !important;
+	color:white;	
+}
+
+.pm-rounded-btn.transparent a {
+	background-color:transparent;
+	color:white;	
+	border:3px solid white;
+}
+
+.pm-rounded-btn.transparent a:hover {
+	color:white;
+	border:3px solid #DBC164;
+	background-color:#DBC164;
+}
+
+.pm-rounded-btn a i {
+	font-family:'FontAwesome';
+	margin-left:5px;	
+}
+
+.pm-rounded-btn.animated a {
+	padding-left:22px;	
+}
+
+.pm-rounded-btn.animated i {
+	opacity:0;
+	margin-left:-5px;	
+	
+	transition:all 0.4s;
+	-moz-transition:all 0.4s;
+	-webkit-transition:all 0.4s;
+	-o-transition:all 0.4s;
+}
+
+.pm-rounded-btn.animated:hover i {
+	margin-left:7px;	
+	opacity:1;
+}
+
+.pm-rounded-btn i {
+	margin-left:8px;	
+}
+
+.pm-rounded-btn.pm-add-to-cart i {
+	margin-left:0px;	
+}
+/* Rounded button end */
+
+/* Blog post button extension */
+.pm-blog-post-btn a {
+	padding:7px 60px;	
+}

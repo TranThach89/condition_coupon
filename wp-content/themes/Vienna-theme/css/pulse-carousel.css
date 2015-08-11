@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+#pm_carousel_inner {  
+	float:left; /* important for inline positioning */  
+	width:1020px; /* important (this width = width of list item(including margin) * items shown */  
+	overflow: hidden;  /* important (hide the items outside the div) */  
+	/* non-important styling below */  
+}  
+
+#pm_carousel_ul {  
+	position:relative;  
+	left:-180px; /* important (this should be negative number of list items width(including margin) */  
+	list-style-type: none; /* removing the default styling for unordered list items */  
+	margin: 0px;  
+	padding: 0px;  
+	width:9999px; /* important */  
+	/* non-important styling bellow */  
+	padding-bottom:10px;  
+}  
+
+
+#pm_carousel_ul li {  
+	float: left; /* important for inline positioning of the list items */  
+	width:156px;  /* fixed width, important */  
+	/* just styling bellow*/  
+	padding:0px;  
+	height:auto;  
+	margin-right:24px; 
+	margin-left:24px;  
+	position:relative;
+} 
+
+#pm_carousel_ul li img {
+	width:100%;	
+}
+
+#pm_left_scroll, #pm_right_scroll {  
+	float:left;   
+	background:white;
+	border:0px solid grey;  
+	padding:60px 10px 0 10px;
+}  
+
+#pm_left_scroll a, #pm_right_scroll a {
+    background-color: #FFA500;
+    display: inline-block;
+    font-size: 20px;
+    height: 30px;
+    padding-top: 10px;
+    text-align: center;
+    width: 40px;
+	text-decoration:none;
+	color:#333;
+	
+	transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-webkit-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+	-ms-transition:all 0.3s ease 0s;
+}
+
+#pm_left_scroll a:hover, #pm_right_scroll a:hover {
+	background-color:#333333;
+	color:white;	
+}
+
+#pm_left_scroll img, #pm_right_scroll img{  
+	/*styling*/  
+	cursor: pointer;  
+	cursor: hand;  
+}  
+
+/* item hover elements */
+.pm_carousel_item_hover {
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0;
+	background-color:orange;	
+	z-index:10;
+}
+
+.pm-carousel-hover-info a {
+	display:inline-block;
+	font-size:18px;
+	background-color:#333333;
+	color:white;	
+	padding:10px;
+	text-decoration:none;
+	
+	transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-webkit-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+	-ms-transition:all 0.3s ease 0s;
+}
+
+.pm-carousel-hover-info a:hover {
+	background-color:#666;	
+}
+
+.pm-carousel-hover-info p {
+	color:black;
+	margin:10px 0;	
+	font-size:12px;
+	font-family:'Roboto';
+}
+
+.pm-carousel-hover-info {
+	position:absolute;
+	width:inherit;
+	height:auto;
+	overflow:hidden;
+	text-align:center;
+	top:0;
+	/*left:0;*/
+	z-index:15;
+}
